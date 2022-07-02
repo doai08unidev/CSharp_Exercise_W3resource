@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\CSharp_Exercise_W3resource\\CSharp_Exercise_W3resource.csproj",
-      "projectName": "CSharp_Exercise_W3resource",
-      "projectPath": "E:\\CSharp_Exercise_W3resource\\CSharp_Exercise_W3resource.csproj",
+      "projectUniqueName": "E:\\CSharp_Exercise_W3resource\\BASIC\\BASIC.csproj",
+      "projectName": "BASIC",
+      "projectPath": "E:\\CSharp_Exercise_W3resource\\BASIC\\BASIC.csproj",
       "packagesPath": "C:\\Users\\doaid\\.nuget\\packages\\",
-      "outputPath": "E:\\CSharp_Exercise_W3resource\\obj\\",
+      "outputPath": "E:\\CSharp_Exercise_W3resource\\BASIC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\doaid\\AppData\\Roaming\\NuGet\\NuGet.Config",

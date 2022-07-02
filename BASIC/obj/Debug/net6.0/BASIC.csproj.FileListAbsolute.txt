@@ -1,0 +1,15 @@
+E:\CSharp_Exercise_W3resource\BASIC\bin\Debug\net6.0\BASIC.exe
+E:\CSharp_Exercise_W3resource\BASIC\bin\Debug\net6.0\BASIC.deps.json
+E:\CSharp_Exercise_W3resource\BASIC\bin\Debug\net6.0\BASIC.runtimeconfig.json
+E:\CSharp_Exercise_W3resource\BASIC\bin\Debug\net6.0\BASIC.dll
+E:\CSharp_Exercise_W3resource\BASIC\bin\Debug\net6.0\BASIC.pdb
+E:\CSharp_Exercise_W3resource\BASIC\obj\Debug\net6.0\BASIC.csproj.AssemblyReference.cache
+E:\CSharp_Exercise_W3resource\BASIC\obj\Debug\net6.0\BASIC.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharp_Exercise_W3resource\BASIC\obj\Debug\net6.0\BASIC.AssemblyInfoInputs.cache
+E:\CSharp_Exercise_W3resource\BASIC\obj\Debug\net6.0\BASIC.AssemblyInfo.cs
+E:\CSharp_Exercise_W3resource\BASIC\obj\Debug\net6.0\BASIC.csproj.CoreCompileInputs.cache
+E:\CSharp_Exercise_W3resource\BASIC\obj\Debug\net6.0\BASIC.dll
+E:\CSharp_Exercise_W3resource\BASIC\obj\Debug\net6.0\refint\BASIC.dll
+E:\CSharp_Exercise_W3resource\BASIC\obj\Debug\net6.0\BASIC.pdb
+E:\CSharp_Exercise_W3resource\BASIC\obj\Debug\net6.0\BASIC.genruntimeconfig.cache
+E:\CSharp_Exercise_W3resource\BASIC\obj\Debug\net6.0\ref\BASIC.dll

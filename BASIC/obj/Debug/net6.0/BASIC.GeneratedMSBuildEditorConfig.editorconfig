@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = CSharp_Exercise_W3resource
-build_property.ProjectDir = E:\CSharp_Exercise_W3resource\
+build_property.RootNamespace = BASIC
+build_property.ProjectDir = E:\CSharp_Exercise_W3resource\BASIC\

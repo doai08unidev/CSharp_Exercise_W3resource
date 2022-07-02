@@ -1,2 +1,19 @@
 C# exercise
 Source:https://www.w3resource.com/csharp-exercises/
+Include:
+    Basic https://www.w3resource.com/csharp-exercises/basic/index.php
+    Basic Algorithm https://www.w3resource.com/csharp-exercises/basic-algo/index.php
+    Data Types https://www.w3resource.com/csharp-exercises/data-types/index.php
+    Conditional Statements https://www.w3resource.com/csharp-exercises/conditional-statement/index.php
+    For Loop https://www.w3resource.com/csharp-exercises/for-loop/index.php
+    Array https://www.w3resource.com/csharp-exercises/array/index.php
+    Searching and Sorting https://www.w3resource.com/csharp-exercises/searching-and-sorting-algorithm/index.php
+    String https://www.w3resource.com/csharp-exercises/string/index.php
+    Function https://www.w3resource.com/csharp-exercises/function/index.php
+    Math https://www.w3resource.com/csharp-exercises/math/index.php
+    Recursion https://www.w3resource.com/csharp-exercises/recursion/index.php
+    LINQ https://www.w3resource.com/csharp-exercises/linq/index.php
+    Structure https://www.w3resource.com/csharp-exercises/structure/index.php
+    Data Time https://www.w3resource.com/csharp-exercises/datetime/index.php
+    File Handling https://www.w3resource.com/csharp-exercises/file-handling/index.php
+
