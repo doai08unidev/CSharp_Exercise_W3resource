@@ -1,0 +1,15 @@
+E:\CSharp_Exercise_W3resource\bin\Debug\net6.0\CSharp_Exercise_W3resource.exe
+E:\CSharp_Exercise_W3resource\bin\Debug\net6.0\CSharp_Exercise_W3resource.deps.json
+E:\CSharp_Exercise_W3resource\bin\Debug\net6.0\CSharp_Exercise_W3resource.runtimeconfig.json
+E:\CSharp_Exercise_W3resource\bin\Debug\net6.0\CSharp_Exercise_W3resource.dll
+E:\CSharp_Exercise_W3resource\bin\Debug\net6.0\CSharp_Exercise_W3resource.pdb
+E:\CSharp_Exercise_W3resource\obj\Debug\net6.0\CSharp_Exercise_W3resource.csproj.AssemblyReference.cache
+E:\CSharp_Exercise_W3resource\obj\Debug\net6.0\CSharp_Exercise_W3resource.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharp_Exercise_W3resource\obj\Debug\net6.0\CSharp_Exercise_W3resource.AssemblyInfoInputs.cache
+E:\CSharp_Exercise_W3resource\obj\Debug\net6.0\CSharp_Exercise_W3resource.AssemblyInfo.cs
+E:\CSharp_Exercise_W3resource\obj\Debug\net6.0\CSharp_Exercise_W3resource.csproj.CoreCompileInputs.cache
+E:\CSharp_Exercise_W3resource\obj\Debug\net6.0\CSharp_Exercise_W3resource.dll
+E:\CSharp_Exercise_W3resource\obj\Debug\net6.0\refint\CSharp_Exercise_W3resource.dll
+E:\CSharp_Exercise_W3resource\obj\Debug\net6.0\CSharp_Exercise_W3resource.pdb
+E:\CSharp_Exercise_W3resource\obj\Debug\net6.0\CSharp_Exercise_W3resource.genruntimeconfig.cache
+E:\CSharp_Exercise_W3resource\obj\Debug\net6.0\ref\CSharp_Exercise_W3resource.dll
